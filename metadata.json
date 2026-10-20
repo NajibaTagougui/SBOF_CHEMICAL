@@ -1,0 +1,6 @@
+{
+  "name": "SBOF Chemical Space Clustering & Drug-Likeness Engine",
+  "description": "Real-time RDKit-equivalent 7-descriptor calculation, 3D conformer generator, 3D PCA chemical space clustering, and SBOF drug-likeness re-ranking engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
